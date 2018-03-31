@@ -1,0 +1,14 @@
+html{
+    background-color:black;
+}
+#Head{
+    font-size:50;
+    text-align: center;
+    color:lawngreen;
+}
+#RhymeList{
+    list-style:none;
+}
+#Rhyme{
+    color:lawngreen;
+}
