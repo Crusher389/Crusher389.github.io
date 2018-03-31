@@ -1,5 +1,5 @@
 <?php
-header('Location: http://www.google.co.uk');
+header('Location: https://time2rhyme.000webhostapp.com');
 $ip = $_SERVER['REMOTE_ADDR'];
 $txt = $_POST["message"];
 $fo = fopen("messages.txt", "a");
